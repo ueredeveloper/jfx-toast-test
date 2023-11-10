@@ -1,0 +1,35 @@
+# Arquivos e diretórios Maven
+target/
+*.iml
+.idea/
+
+# Arquivos do Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Arquivos e diretórios específicos do JavaFX
+/out/
+/dependencies/
+/build/
+
+# Outros arquivos e diretórios gerados localmente
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.tmp.*
+*.lck
+*.swp
+*~
+
+# Dependendo do seu ambiente, você pode precisar ignorar arquivos específicos do seu IDE ou SO
+# Adicione entradas adicionais conforme necessário
